@@ -8,5 +8,6 @@ String version=resource.getString("version");%>
 <body>
 <h2>War file deployed into amazon EC2 instance 
 "Success"</h2>
+ <h3>Testing</h3>
 </body>
 </html>
